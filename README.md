@@ -9,3 +9,5 @@ manishkumar00208/manishkumar00208 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 [![manishkumar00208's GitHub | Stats](https://stats.quine.sh/manishkumar00208/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=manishkumar00208)
+
+[![manishkumar00208's GitHub | Languages Over Time](https://stats.quine.sh/manishkumar00208/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=manishkumar00208)
